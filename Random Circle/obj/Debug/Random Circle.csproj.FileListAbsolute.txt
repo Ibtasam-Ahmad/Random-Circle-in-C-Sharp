@@ -1,0 +1,20 @@
+C:\Users\0319be\Downloads\Random Circle\Random Circle\bin\Debug\Random Circle.exe.config
+C:\Users\0319be\Downloads\Random Circle\Random Circle\bin\Debug\Random Circle.exe
+C:\Users\0319be\Downloads\Random Circle\Random Circle\bin\Debug\Random Circle.pdb
+C:\Users\0319be\Downloads\Random Circle\Random Circle\obj\Debug\Random Circle.csprojResolveAssemblyReference.cache
+C:\Users\0319be\Downloads\Random Circle\Random Circle\obj\Debug\Random_Circle.Form1.resources
+C:\Users\0319be\Downloads\Random Circle\Random Circle\obj\Debug\Random_Circle.Properties.Resources.resources
+C:\Users\0319be\Downloads\Random Circle\Random Circle\obj\Debug\Random Circle.csproj.GenerateResource.Cache
+C:\Users\0319be\Downloads\Random Circle\Random Circle\obj\Debug\Random Circle.exe
+C:\Users\0319be\Downloads\Random Circle\Random Circle\obj\Debug\Random Circle.pdb
+E:\CPS LAB\Random Circle\Random Circle\bin\Debug\Random Circle.exe.config
+E:\CPS LAB\Random Circle\Random Circle\bin\Debug\Random Circle.exe
+E:\CPS LAB\Random Circle\Random Circle\bin\Debug\Random Circle.pdb
+E:\CPS LAB\Random Circle\Random Circle\obj\Debug\Random Circle.csproj.AssemblyReference.cache
+E:\CPS LAB\Random Circle\Random Circle\obj\Debug\Random Circle.csproj.SuggestedBindingRedirects.cache
+E:\CPS LAB\Random Circle\Random Circle\obj\Debug\Random_Circle.Form1.resources
+E:\CPS LAB\Random Circle\Random Circle\obj\Debug\Random_Circle.Properties.Resources.resources
+E:\CPS LAB\Random Circle\Random Circle\obj\Debug\Random Circle.csproj.GenerateResource.cache
+E:\CPS LAB\Random Circle\Random Circle\obj\Debug\Random Circle.csproj.CoreCompileInputs.cache
+E:\CPS LAB\Random Circle\Random Circle\obj\Debug\Random Circle.exe
+E:\CPS LAB\Random Circle\Random Circle\obj\Debug\Random Circle.pdb
